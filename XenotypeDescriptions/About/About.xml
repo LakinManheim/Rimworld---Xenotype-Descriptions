@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>异种简介 - Xenotype Descriptions</name>
+  <author>Lakin Manheim</author>
+  <packageId>lakinmanheim.xenotypedescriptions</packageId>
+  <modVersion>0.3.0</modVersion>
+  <supportedVersions><li>1.6</li><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl></li>
+    <li><packageId>ludeon.rimworld.biotech</packageId><displayName>RimWorld - Biotech</displayName></li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li><li>ludeon.rimworld.biotech</li></loadAfter>
+  <description><![CDATA[Adds custom descriptions to player-created xenotypes. Descriptions can be saved and loaded with xenogerm templates.
+
+为玩家自创的异种添加专属简介，支持随异种胚芽模板保存和载入。]]></description>
+</ModMetaData>

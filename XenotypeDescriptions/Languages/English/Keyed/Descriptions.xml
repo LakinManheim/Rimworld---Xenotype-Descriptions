@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XGD_Title>Xenotype description</XGD_Title>
+  <XGD_Edit>Edit description</XGD_Edit>
+  <XGD_Hint>Write a description for “{0}”. It will be saved with the template. Leave it blank to generate a description from the genes.</XGD_Hint>
+  <XGD_Back>Cancel</XGD_Back>
+  <XGD_Clear>Clear</XGD_Clear>
+  <XGD_Confirm>Confirm</XGD_Confirm>
+  <XGD_AutoLight>A few genetic adjustments have altered some of their physiological traits. Overall, they remain close to naturally evolved humans; genetic engineering has not yet changed the body's basic structure.</XGD_AutoLight>
+  <XGD_AutoModified>Extensive gene editing has taken root throughout their bodies. Inherited traits can be strengthened, weakened or replaced; the genes they were born with are no longer the final blueprint for their lives.</XGD_AutoModified>
+  <XGD_AutoDeep>They have diverged far from naturally evolved humans. Physiological changes that once took countless generations to accumulate have been compressed into a single genetic reconstruction. Large-scale artificial modification has surpassed natural selection in shaping the human body.</XGD_AutoDeep>
+  <XGD_AutoArchite>Archites have become integrated with their bodies, granting abilities beyond the reach of conventional genetic engineering. Such modifications can optimize metabolism, resist disease, and even halt aging or sustain life after the heart has been destroyed. For these modified humans, the physiological limits of humanity are no longer absolute.</XGD_AutoArchite>
+</LanguageData>

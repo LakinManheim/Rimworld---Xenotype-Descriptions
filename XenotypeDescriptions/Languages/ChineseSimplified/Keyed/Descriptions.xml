@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XGD_Title>异种简介</XGD_Title>
+  <XGD_Edit>编辑简介</XGD_Edit>
+  <XGD_Hint>为“{0}”填写简介。简介会随模板保存，留空则根据基因自动生成简介。</XGD_Hint>
+  <XGD_Back>取消</XGD_Back>
+  <XGD_Clear>清空</XGD_Clear>
+  <XGD_Confirm>确定</XGD_Confirm>
+  <XGD_AutoLight>少量基因调整改变了他们的部分生理特征。整体上，他们依然接近自然进化形成的普通人类，基因工程尚未动摇人体的基本构造。</XGD_AutoLight>
+  <XGD_AutoModified>成套的基因改写已经深入他们的身体。遗传赋予的特征可以被加强、削弱或替换，出生时的基因组合已不再是生命的最终蓝图。</XGD_AutoModified>
+  <XGD_AutoDeep>他们已经与自然进化形成的人类相去甚远。曾经需要漫长世代才能积累的生理变化，如今被压缩进一次基因重构之中。自然选择对人类身体的塑造，已经被大规模的人工改造所超越。</XGD_AutoDeep>
+  <XGD_AutoArchite>超凡微械与他们的身体融为一体，赋予了他们常规基因工程无法实现的能力。这类改造能够优化代谢、抵御疾病，甚至停止衰老，或在心脏被摧毁后继续维持生命。对这些改造者而言，人类的生理极限已不再不可逾越。</XGD_AutoArchite>
+</LanguageData>
